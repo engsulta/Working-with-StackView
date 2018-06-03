@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3512920720C47371007EF22C /* UIView+Designable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3512920620C47371007EF22C /* UIView+Designable.swift */; };
 		35A204F620C0B6CA000434AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A204F520C0B6CA000434AB /* AppDelegate.swift */; };
 		35A204F820C0B6CA000434AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A204F720C0B6CA000434AB /* ViewController.swift */; };
 		35A204FB20C0B6CA000434AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35A204F920C0B6CA000434AB /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3512920620C47371007EF22C /* UIView+Designable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIView+Designable.swift"; path = "../../DesignableUserInterface/DesignableUserInterface/UIView+Designable.swift"; sourceTree = "<group>"; };
 		35A204F220C0B6CA000434AB /* WorkingWithStackViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorkingWithStackViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		35A204F520C0B6CA000434AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		35A204F720C0B6CA000434AB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				35A204F520C0B6CA000434AB /* AppDelegate.swift */,
 				35A204F720C0B6CA000434AB /* ViewController.swift */,
 				35A204F920C0B6CA000434AB /* Main.storyboard */,
+				3512920620C47371007EF22C /* UIView+Designable.swift */,
 				35A204FC20C0B6CB000434AB /* Assets.xcassets */,
 				35A204FE20C0B6CB000434AB /* LaunchScreen.storyboard */,
 				35A2050120C0B6CB000434AB /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				35A204F820C0B6CA000434AB /* ViewController.swift in Sources */,
 				35A204F620C0B6CA000434AB /* AppDelegate.swift in Sources */,
+				3512920720C47371007EF22C /* UIView+Designable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
